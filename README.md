@@ -37,5 +37,5 @@ docker exec -it cli bash
         - ClaimExists
 
 Author: Sansan Celestin Hien
-University : University Virtuelle de Côte D'Ivoire (UVCI)
+University : Université Virtuelle de Côte D'Ivoire (UVCI)
 Country : Ghana
