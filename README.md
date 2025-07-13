@@ -2,7 +2,7 @@
 
 This project is a **Hyperledger Fabric test network** implementing an **insurance claim management system** using chaincode written in Go.
 
-## ✅ Features
+##  Features
 
 - Smart contract for managing insurance claims
 - Supports functions: `CreateClaim`, `ReadClaim`, `ClaimExists`
@@ -10,13 +10,13 @@ This project is a **Hyperledger Fabric test network** implementing an **insuranc
 - Secure TLS communication with orderer and peers
 - Successfully tested with the Fabric CLI
 
-## 📁 Project Structure
+##  Project Structure
 
 - `chaincode/insurance/go/`: Smart contract source code
 - `organizations/`: Peer and orderer crypto materials
 - `test-network/`: Network scripts and Docker Compose files
 
-## 🧪 How to Test
+##  How to Test
 
 ### 1. Start the network:
 ```bash
@@ -30,12 +30,12 @@ docker exec -it cli bash
 
 4. Invoke(S'inscrire soit inscrire les informations du sinistre) chaincode with the function below:
           - CreateClaim
-          
+ 
 
 5. Query(Faire une requête) the ledger with functions below:
         - ReadClaim
         - ClaimExists
 
-Author: Sansan Celestin Hien
+## Author: Sansan Celestin Hien
 University : Université Virtuelle de Côte D'Ivoire (UVCI)
 Country : Ghana
