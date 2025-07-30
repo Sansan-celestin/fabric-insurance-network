@@ -33,10 +33,10 @@ docker exec -it cli bash
  
 
 5. Query(Faire une requête) the ledger with functions below:
+        - CreateClaim
         - ReadClaim
         - ClaimExists
 
-
- Author: Sansan Celestin Hien
+Author: Sansan Celestin Hien
 University : Université Virtuelle de Côte D'Ivoire (UVCI)
 Country : Ghana
