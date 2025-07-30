@@ -10,7 +10,6 @@
 *.json
 *.pb
 *.tar.gz
-
 # Generated folders and binaries
 log.txt
 wallet/
@@ -22,7 +21,6 @@ fabric-samples/bin/*
 fabric-samples/config/*
 channel-artifacts/*
 org3-artifacts/crypto-config/
-
 # Fabric CA and orgs
 organizations/fabric-ca/ordererOrg/*
 organizations/fabric-ca/org1/*
@@ -30,9 +28,5 @@ organizations/fabric-ca/org2/*
 addOrg3/fabric-ca/org3/*
 organizations/ordererOrganizations/*
 organizations/peerOrganizations/*
-
-# Keep chaincode private
-chaincode/insurance/
-
 # Keep chaincode private
 chaincode/insurance/
