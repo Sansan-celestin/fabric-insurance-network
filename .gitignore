@@ -33,3 +33,6 @@ organizations/peerOrganizations/*
 
 # Keep chaincode private
 chaincode/insurance/
+
+# Keep chaincode private
+chaincode/insurance/
