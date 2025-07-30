@@ -30,3 +30,6 @@ organizations/fabric-ca/org2/*
 addOrg3/fabric-ca/org3/*
 organizations/ordererOrganizations/*
 organizations/peerOrganizations/*
+
+# Keep chaincode private
+chaincode/insurance/
